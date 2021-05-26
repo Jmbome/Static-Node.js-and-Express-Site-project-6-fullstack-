@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const { projects } = require('./data');
+const { projects } = require('../data');
 
 
 // root route and renders index.pug. Pass project.json
