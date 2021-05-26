@@ -1,0 +1,60 @@
+{
+ 
+ "projects":[
+
+    {
+    "id":"0",
+    "project_name":"A Random Quote Generator",
+    "description":"A Random Quote Generator program that displays a randomly selected quote within a given time interval or each time the user clicks a button.",
+    "technologies":["Html", "Css","Javascript"],
+    "live_link":"https://jmbome.github.io/project-1-fullstack/",
+    "github_link":"https://github.com/Jmbome/project-1-fullstack.git",
+    "image_urls":["./images/lanscape img1.png"]
+    },
+  
+
+    {
+    "id":"1",
+    "project_name":"Data Pagination and Filtering",
+    "description":"A display several “pages” of student data that the user can easily navigate and view.",
+    "technologies":["Html","Css","Javascript"],
+    "live_link":"https://jmbome.github.io/project-2-fullstack/",
+    "github_link":"https://github.com/Jmbome/project-2-fullstack",
+    "image_urls":["./images/lanscape img2.png"]
+    },
+
+    {
+    "id":"2",
+    "project_name":"Interactive Form",
+    "description":"An engaging, interactive, and easy to use form that collects and stores users information with customized and conditional behavior.",
+    "technologies":["Html","Css","Javascript"],
+    "live_link":"https://jmbome.github.io/project-3-fullstack/",
+    "github_link":"https://github.com/Jmbome/project-3-fullstack",
+    "image_urls":["./images/lanscape img3.png"]
+    },
+
+
+    {
+    "id":"3",
+    "project_name":"OOP Game Show App",
+    "description":"A browser-based, word guessing game that selects random, hidden phrases; giving a player tries to guess the right phrase by selecting individual letters from an onscreen keyboard",
+    "technologies":["Html","Css","Javascript"],
+    "live_link":"https://jmbome.github.io/project-4-fullstack/",
+    "github_link":"https://github.com/Jmbome/project-4-fullstack",
+    "image_urls":["./images/lanscape img4.png"]
+    },
+
+
+    {
+    "id":"4",
+    "project_name":"Public API Requests",
+    "description":"An employee directory that is communicated from a third-party API (Application Programming Interface).",
+    "technologies":["Html","Css","Javascript"],
+    "live_link":"https://jmbome.github.io/project-5-fullstack/",
+    "github_link":"https://github.com/Jmbome/project-5-fullstack",
+    "image_urls":["./images/lanscape img5.png"]
+    }
+    
+ ]
+
+}
