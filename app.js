@@ -18,6 +18,8 @@ app.set('view engine','pug');
 // Configure static folders
 app.use('/static', express.static(path.join(__dirname, 'public')));
 
+
+
 // Configure URL encoding with express
 app.use(express.urlencoded({ extended: false }));
 

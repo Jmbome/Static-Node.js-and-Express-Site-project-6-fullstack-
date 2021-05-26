@@ -9,7 +9,7 @@
     "technologies":["Html", "Css","Javascript"],
     "live_link":"https://jmbome.github.io/project-1-fullstack/",
     "github_link":"https://github.com/Jmbome/project-1-fullstack.git",
-    "image_urls":["./images/lanscape img1.png"]
+    "image_urls":["/static/images/landscapeimg1.png"]
     },
   
 
@@ -20,7 +20,7 @@
     "technologies":["Html","Css","Javascript"],
     "live_link":"https://jmbome.github.io/project-2-fullstack/",
     "github_link":"https://github.com/Jmbome/project-2-fullstack",
-    "image_urls":["./images/lanscape img2.png"]
+    "image_urls":["/static/images/landscapeimg2.png"]
     },
 
     {
@@ -30,7 +30,7 @@
     "technologies":["Html","Css","Javascript"],
     "live_link":"https://jmbome.github.io/project-3-fullstack/",
     "github_link":"https://github.com/Jmbome/project-3-fullstack",
-    "image_urls":["./images/lanscape img3.png"]
+    "image_urls":["/static/images/landscapeimg3.png"]
     },
 
 
@@ -41,7 +41,7 @@
     "technologies":["Html","Css","Javascript"],
     "live_link":"https://jmbome.github.io/project-4-fullstack/",
     "github_link":"https://github.com/Jmbome/project-4-fullstack",
-    "image_urls":["./images/lanscape img4.png"]
+    "image_urls":["/static/images/landscapeimg4.png"]
     },
 
 
@@ -52,7 +52,7 @@
     "technologies":["Html","Css","Javascript"],
     "live_link":"https://jmbome.github.io/project-5-fullstack/",
     "github_link":"https://github.com/Jmbome/project-5-fullstack",
-    "image_urls":["./images/lanscape img5.png"]
+    "image_urls":["/static/images/landscapeimg5.png"]
     }
     
  ]
