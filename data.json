@@ -58,7 +58,7 @@
 
     {
     "id":"5",
-    "project_name":"Front End webdevelopment projects",
+    "project_name":"Front End projects",
     "description":"A combination of 10 front end web development projects",
     "technologies":["Html","Css","Javascript"],
     "live_link":"https://meetjoembome.com/",
