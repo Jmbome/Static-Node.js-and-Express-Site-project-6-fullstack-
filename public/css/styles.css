@@ -28,7 +28,7 @@ body {
 }
 
 article {
-  background: #fefefe;
+  background: antiquewhite;
 }
 
 h1,h2,h3,h4,h5,p{
@@ -82,7 +82,7 @@ a {
   width: 100%;
   max-width: 1200px;
   padding: 40px 50px 30px;
-  background: #fefefe;
+  background: whitesmoke;
   border-bottom: 1px solid #eaeaea;
 }
 
@@ -176,7 +176,7 @@ nav a span {
   font-size: 13px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #555;
+  color:lightgrey;
 }
 
 .header {
@@ -262,6 +262,11 @@ nav a span {
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
 }
 
+.cell img:hover{
+  transform: scale(1.1);
+  transition: transform .5s;
+
+}
 
 /* 
   About and project pages styles 

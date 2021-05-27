@@ -4,12 +4,14 @@ const { projects } = require('../data');
 
 
 
+
 //projects route
 router.get('/projects/:id', (req, res, next) => {
     // find a project in projects array with with the right id 
     const project = projects[req.params.id];
     if (project) {
         res.render('project', { project });
+        
     } else {
         const err = new Error('Project file does not exist');
         console.log('Project not Found');
@@ -17,6 +19,7 @@ router.get('/projects/:id', (req, res, next) => {
         next(err);
     }
 });
+
 
 
 module.exports = router;

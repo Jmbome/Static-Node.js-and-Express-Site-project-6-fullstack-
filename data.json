@@ -16,7 +16,7 @@
     {
     "id":"1",
     "project_name":"Data Pagination and Filtering",
-    "description":"A display several “pages” of student data that the user can easily navigate and view.",
+    "description":"A display of several “pages” of student data that the user can easily navigate and view.",
     "technologies":["Html","Css","Javascript"],
     "live_link":"https://jmbome.github.io/project-2-fullstack/",
     "github_link":"https://github.com/Jmbome/project-2-fullstack",
@@ -53,6 +53,17 @@
     "live_link":"https://jmbome.github.io/project-5-fullstack/",
     "github_link":"https://github.com/Jmbome/project-5-fullstack",
     "image_urls":["/static/images/landscapeimg5.png"]
+    },
+
+
+    {
+    "id":"5",
+    "project_name":"Front End webdevelopment projects",
+    "description":"A combination of 10 front end web development projects",
+    "technologies":["Html","Css","Javascript"],
+    "live_link":"https://meetjoembome.com/",
+    "github_link":"https://github.com/Jmbome/Website-Portfolio",
+    "image_urls":["/static/images/landscapeimg6.png"]
     }
     
  ]
