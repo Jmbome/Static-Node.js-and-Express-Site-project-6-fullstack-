@@ -15,14 +15,9 @@ block content
     .projects-box.box.grid
 
       
-       each project in projects
-        //- Use the example Pug code below and interpolated template literals as needed to dynamically generate:
-          //- The paths in the link's href and img's src attributes
-          //- The text 'Thumbnail' interpolated with the project title for the img's alt attribute
-          //- The project title for the h5 element's text
-
+      each project in projects
         .cell
-          a(href=`/project/${project.id}`)
+          a(href=`/projects/${project.id}`)
             img.thumbnail(src=`${project.image_urls[0]}` alt='thumbnail')
             h5 #{project.project_name}
             

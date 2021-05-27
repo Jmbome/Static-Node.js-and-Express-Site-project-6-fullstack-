@@ -10,7 +10,6 @@ router.get('/', (req, res, next) => {
 });
 
 
-
 // about page route. renders the about page
 router.get('/about', (req, res, next) => {
 

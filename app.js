@@ -3,7 +3,7 @@
 const express=require('express');
 const path = require('path');
 const routes = require('./routes');
-
+const projectRoute=require('./routes/projects')
 
 
 //Instantiate Express app 
@@ -24,6 +24,7 @@ app.use('/static', express.static(path.join(__dirname, 'public')));
 app.use(express.urlencoded({ extended: false }));
 
 app.use(routes);
+app.use(projectRoute);
 
 // page not found error handler.
 app.use((req, res, next) => {

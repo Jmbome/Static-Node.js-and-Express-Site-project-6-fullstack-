@@ -7,7 +7,8 @@ const { projects } = require('../data');
 //projects route
 router.get('/projects/:id', (req, res, next) => {
     // find a project in projects array with with the right id 
-    const project = projects.req.params;
+    const project = projects[req.params.id];
+    console.log(project);
     if (project) {
         res.render('project', { project });
     } else {
